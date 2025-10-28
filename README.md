@@ -3,7 +3,7 @@
 This repository captures my learning journey through a job simulation by Deloitte Australia. It focuses on documenting how I approached the tasks, what I learned, and how the work maps to real-world project practices. A certificate of completion is attached to document successful completion.
 
 <br/>
-<img src="Deloitte_Job_Simulation_Certificate.png" alt="Certificate" align="right" width="370">
+<img src="Deloitte_Job_Simulation_Certificate.png" alt="Certificate">
 
 <br/>
 ### Learning Objectives
