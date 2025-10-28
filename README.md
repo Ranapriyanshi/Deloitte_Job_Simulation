@@ -44,7 +44,7 @@ This repository captures my learning journey through a job simulation by Deloitt
 
 
 ### My Learnings: 💡
-####Task 1 (Telemetry)
+#### Task 1 (Telemetry)
 - Converted between ISO timestamps and millisecond epochs to match a target schema.
 - Built confidence reading unfamiliar code and completing targeted implementations.
 - Used tests as a feedback loop to validate transformation logic and edge cases.
