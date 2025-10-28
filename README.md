@@ -5,27 +5,26 @@ This repository captures my learning journey through a job simulation by Deloitt
 <br/>
 <img src="Deloitte_Job_Simulation_Certificate.png" alt="Certificate">
 <br/>
-### Learning Objectives
 
+### Learning Objectives 
 - Understand how to interpret ambiguous requirements and convert them into actionable steps.
 - Practice data normalization and format transformation with attention to time formats.
 - Develop clear, concise technical documentation and formal proposal writing.
 - Strengthen habits for testing, validation, and iterative improvement.
 
 ### Skills and Tools Practiced
-
 - Data parsing and timestamp normalization (ISO ↔ milliseconds)
 - Requirements analysis and scoping
 - Proposal writing and stakeholder communication
 - Version control hygiene and documentation-first workflow
 
-### Repository Structure
+### Repository Structure 
 
 - `Task1/Task1_Description.md` — Instructions for telemetry normalization and format unification (if present).
 - `Task2/Task2_Description.md` — Instructions to write a concise, formal development proposal.
 - `README.md` — You are here. Project overview, setup, and usage.
 
-### Tasks
+### Tasks 📋
 
 #### Task 1: Telemetry Normalization
 - Create an account on repl.it and fork the project.
@@ -44,14 +43,13 @@ This repository captures my learning journey through a job simulation by Deloitt
 - Use a word-processing tool (MS Office or LibreOffice). Follow the template referenced in the Resources.
 
 
-### What I Learned: Task 1 (Telemetry)
-
+### My Learnings: 💡
+####Task 1 (Telemetry)
 - Converted between ISO timestamps and millisecond epochs to match a target schema.
 - Built confidence reading unfamiliar code and completing targeted implementations.
 - Used tests as a feedback loop to validate transformation logic and edge cases.
 
-### What I Learned: Task 2 (Proposal)
-
+#### Task 2 (Proposal)
 - Structured a concise, formal proposal that balances clarity and completeness.
 - Practiced scoping, estimation (man-hours), and milestone planning.
 - Communicated support and maintenance commitments clearly for stakeholders.
